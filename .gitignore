@@ -1,0 +1,77 @@
+# General temporary files
+*.log
+*.bak
+*~
+*.swp
+*.tmp
+*.swo
+
+# Simulation outputs
+*.vcd
+*.fsdb
+*.out
+*.wlf
+*.trn
+
+# Synopsys Design Compiler & Synthesis
+*.ddc
+*.mapped.v
+*.vg
+*.netlist.v
+*.area
+*.power
+*.timing
+*.summary
+*.sdf
+
+# Cadence tools (Genus, Innovus, etc.)
+INCA_libs/
+*.dsn
+*.gds
+*.lef
+*.def
+
+# VCS simulator outputs
+simv*
+csrc/
+simv.daidir/
+DVEfiles/
+ucli.key
+.vcs*
+
+# ModelSim or other simulators
+work/
+transcript
+modelsim.ini
+vsim.wlf
+
+# Vivado or Quartus (if applicable)
+*.jou
+*.log
+*.str
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+
+# GDS and layout outputs
+*.gds
+*.oas
+*.lvs
+*.spex
+*.spef
+*.sdf
+*.sdc
+
+# IDE-specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+
+# Temporary or backup files
+*~
+*.swp
