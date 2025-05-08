@@ -40,8 +40,8 @@ You are free to use, modify, and distribute the code with proper attribution.
 
 We sincerely thank all project team members for their dedication and contributions:
 
-- **Z. Li**, **Z. Xu**, **J. Deng**, **M. Kuang**
+- **J. Deng**, **Z. Xu**, **M. Kuang**, **Z. Li**
 
 We also gratefully acknowledge the guidance and support from:
 
-- **Y. W.**, **S. Li**, **Junkai Wang**, **Xuesong Qi**, **Haoyu Zheng**
+- **Y. W**, **S. Li**, **J. Wang**, **X. Qi**, **H. Zheng**
