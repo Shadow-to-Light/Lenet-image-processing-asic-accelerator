@@ -18,7 +18,7 @@ This project presents a custom-designed AI accelerator chip based on the LeNet a
 
 ## 📁 Project Structure
 
-```bash
+```text
 rtl/           # Verilog source code and testbenches
   ├── src/     # Core RTL modules
   └── tb/      # Testbenches and input data used in simulation
@@ -31,7 +31,7 @@ reports/       # Design reports of our group
 
 docs/          # Project description and problem statement
 
----
+```
 
 ## 🧰 Tools Used
 
