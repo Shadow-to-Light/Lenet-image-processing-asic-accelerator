@@ -62,4 +62,4 @@ We sincerely thank all project team members for their dedication and contributio
 
 We also gratefully acknowledge the guidance and support from:
 
-- **Y. W**, **S. Li**, **J. Wang**, **X. Qi**, **H. Zheng**
+- **Y. W**, **T. Li**, **J. Wang**, **X. Qi**, **H. Zheng**
